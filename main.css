@@ -5,8 +5,9 @@
     }
 
     img {
-    position: absolute;
-    padding: 15px;
+     position: absolute;
+    left: 15px;
+    top: 15px;
     }
 
 
