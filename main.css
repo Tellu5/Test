@@ -21,3 +21,19 @@ img {
     top: 0px;
     z-index: -1;
 }
+
+
+.button {
+    background-color: #00823b
+    position: relative;
+    Display: inline-block;
+    padding: .526315em .789473em .263157em; // 10px 15px 5px
+    border: none;
+    border-radius(0);
+    box-shadow(0 2px 0 darken($colour, 15%));
+    border-bottom: 2px solid darken($colour, 15%);
+    font-size: 1em; 
+    line-height: 1.25;
+    text-decoration: none;
+    cursor: pointer;
+}
