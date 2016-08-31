@@ -26,7 +26,7 @@ img {
 .button {
     background-color: #00823b;
     position: relative;
-    Display: inline-block;
+    display: inline-block;
     padding: .526315em .789473em .263157em; // 10px 15px 5px;
     border: none;
     border-radius(0);
