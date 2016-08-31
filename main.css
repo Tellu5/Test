@@ -23,13 +23,10 @@
     .button {
     font-family:new transport;
     background-color: #00823b;
-    position: relative;
-    display: inline-block;
-    padding: 10px;
+    padding: 20px;
     box-shadow(0 2px 0 darken($colour, 15%));
     border-bottom: 2px solid darken($colour, 15%);
     font-size: 16px;
-    line-height: 1.25;
     text-decoration: none;
     color: white;
     text-align: center;
