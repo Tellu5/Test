@@ -8,12 +8,10 @@
     position: absolute;
     padding-left: 15px;
     padding-top: 15px;
-    width:55px;
-    height:100px;
     }
 
 
-.button {
+    .button {
     background-color: #00823b;
     position: relative;
     display: inline-block;
