@@ -21,7 +21,7 @@
     background-color: #00823b;
     position: relative;
     display: inline-block;
-    padding: 10px, 15px, 5px;
+    padding: 10px;
     box-shadow(0 2px 0 darken($colour, 15%));
     border-bottom: 2px solid darken($colour, 15%);
     font-size: 16px;
