@@ -1,6 +1,7 @@
     h1  {
     margin-top: 80px; 
     color: #9325B2;
+    font-family:new transport;
     }
 
     img {
@@ -11,14 +12,17 @@
     }
     
     .first  {
+    font-family:new transport;
     padding-bottom:20px;   
     }
     
      .demo  {
+    font-family:new transport;
     padding-top:20px;   
     }
 
     .button {
+    font-family:new transport;
     background-color: #00823b;
     position: relative;
     display: inline-block;
